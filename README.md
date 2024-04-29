@@ -57,7 +57,7 @@ As a user role following functionalities need to be implemented:
 ## // crear userLogin Controller and Service by DTO communication
 
 # Link to test H2 database:
-- http://localhost:8080/h2-console/
+- http://localhost:8080/h2-console/
 
 # Link to test service by swagger:
 - http://localhost:8080/swagger-ui/index.html
