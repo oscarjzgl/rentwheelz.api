@@ -56,10 +56,14 @@ As a user role following functionalities need to be implemented:
 
 ## // crear userLogin Controller and Service by DTO communication
 
-# Link to test H2 database- http://localhost:8080/h2-console/
+# Link to test H2 database:
+- http://localhost:8080/h2-console/
 
-# Link to test service by swagger:- http://localhost:8080/swagger-ui/index.html
+# Link to test service by swagger:
+- http://localhost:8080/swagger-ui/index.html
 
-# Testing booking two cars for one client:- Problem in Reservation when user need 2 car reservation: userEmail String Required, Unique (especification in document)
+# Testing booking two cars for one client:
+- Problem in Reservation when user need 2 car reservation: userEmail String Required, Unique (especification in document)
 
-# Info about Spring Boot 3 + Swagger:https://stackoverflow.com/questions/77196323/spring-boot-3-configure-spring-security-to-allow-swagger-ui
+# Info about Spring Boot 3 + Swagger:
+- https://stackoverflow.com/questions/77196323/spring-boot-3-configure-spring-security-to-allow-swagger-ui
